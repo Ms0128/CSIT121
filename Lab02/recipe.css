@@ -1,7 +1,7 @@
 body {
   background-color: lightblue;
   color: white;
-  font-family: Arial, fantasy;
+  font-family: Luminari, fantasy;
   margin: 0;
   text-transform: uppercase;
 }
@@ -27,7 +27,7 @@ p {
 
 a {
   color: #0077cc;
-  text-decoration: none;
+  text-decoration: green wavy underline;
 }
 
 .nav li {
