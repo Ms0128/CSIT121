@@ -5,6 +5,12 @@ body {
   margin: 0;
   text-transform: uppercase;
 }
+styledimg {
+background-image: url("https://c1.wallpaperflare.com/preview/888/182/477/serrano-peppers-peppers-chiles-chili.jpg");
+background-repeat: no-repeat;
+width: 600px;
+height: 200px;
+}
 
 
 h1 {
