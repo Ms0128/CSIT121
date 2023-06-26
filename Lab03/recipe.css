@@ -23,10 +23,9 @@ h3 {
 
 img {
   content: url("images/Veggie Burritos.jpg");
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  position: static;
+  border: 1px solid white;
+  border-radius: 10px
   }
 
 p {
