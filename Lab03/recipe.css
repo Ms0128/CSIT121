@@ -6,16 +6,6 @@ body {
   text-transform: uppercase;
 }
 
-img {
-  content: url('https://c1.wallpaperflare.com/preview/888/182/477/serrano-peppers-peppers-chiles-chili.jpg');
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  }
-
-
-
 h1 {
   font-size: 6em;
   margin-bottom: 1em;
@@ -30,6 +20,14 @@ h3 {
   font-size: 2em;
   margin-bottom: 0.4em;
 }
+
+img {
+  content: url('https://c1.wallpaperflare.com/preview/888/182/477/serrano-peppers-peppers-chiles-chili.jpg');
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  }
 
 p {
   line-height: 1.5;
