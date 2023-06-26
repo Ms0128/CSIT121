@@ -4,7 +4,12 @@ body {
   font-family: Luminari, fantasy;
   margin: 0;
   text-transform: uppercase;
+  background-image: url('https://p0.pxfuel.com/preview/583/321/69/vinaigrette-salad-there-are-food.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+		
 }
+
 
 h1 {
   font-size: 6em;
