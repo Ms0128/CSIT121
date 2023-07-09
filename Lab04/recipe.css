@@ -60,14 +60,15 @@ p {
   line-height: 1.5;
 }
 
-a:hover {
-      color: bright red;
-}
-
 a {
   color: #0077cc;
   text-decoration: green wavy underline;
 }
+
+a:hover {
+      color: red;
+}
+
 
 
 .nav li {
