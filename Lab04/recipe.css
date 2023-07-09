@@ -66,9 +66,8 @@ a {
 }
 
 a:hover {
-      color: white;
+  background-color: gold;
 }
-
 
 
 .nav li {
