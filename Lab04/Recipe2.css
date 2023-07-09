@@ -2,7 +2,8 @@ body {
   background-color: lightblue;
   color: white;
   font-family: Luminari, fantasy;
-  margin: 0;
+  margin: 0 auto;
+  width: 80%
   text-transform: uppercase;
 }
 
