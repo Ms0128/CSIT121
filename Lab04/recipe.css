@@ -64,6 +64,9 @@ a {
   color: #0077cc;
   text-decoration: green wavy underline;
 }
+a:hover {
+      color: white;
+}
 
 .nav li {
   display: inline-block;
