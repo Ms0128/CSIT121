@@ -58,3 +58,12 @@ img {
   border: 2px solid white;
   border-radius: 20px
   }
+
+a {
+  color: #0077cc;
+  text-decoration: white wavy underline;
+}
+
+a:hover {
+  background-color: white;
+}
