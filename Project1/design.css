@@ -65,11 +65,4 @@ img {
   border-radius: 20px
   }
 
-a {
-  color: #0077cc;
-  text-decoration: black wavy underline;
-}
 
-a:hover {
-  background-color: light blue;
-}
