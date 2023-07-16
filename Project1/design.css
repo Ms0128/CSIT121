@@ -54,7 +54,6 @@ p {
 }
 
 img {
-  content: url("images/derp.jpg");
   border: 2px solid white;
   border-radius: 10px
   }
