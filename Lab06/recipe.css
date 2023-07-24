@@ -9,8 +9,13 @@
       }
 
       .header {
+            font-size: 10px;
+      }
+
+      h1 {
             font-size: 18px;
       }
+      
 
       .nav {
             display: none;
