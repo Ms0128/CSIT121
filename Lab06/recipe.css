@@ -1,0 +1,76 @@
+.container {
+      display: flex;
+}
+
+.ingredients,
+.instructions {
+      flex 1;
+      border: 2px solid white;
+      padding: 0 20px;
+}
+
+.ingredients {
+      border-right: 4px solid white;
+}
+#wrapper { 
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+}
+*{ 
+      box-sizing: border-box;
+}
+    .wireframe {
+      border: 6px solid white;
+      padding: 10px;
+      margin: 10px;
+      
+}
+body {
+  background-color: lightblue;
+  color: white;
+  font-family: Luminari, fantasy;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 6em;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 4em;
+  margin-bottom: 0.6em;
+}
+
+h3 {
+  font-size: 2em;
+  margin-bottom: 0.4em;
+}
+
+img {
+  content: url("images/Veggie Burritos.jpg");
+  position: static;
+  border: 2px solid white;
+  border-radius: 10px
+  }
+
+p {
+  line-height: 1.5;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: green wavy underline;
+}
+
+a:hover {
+  background-color: gold;
+}
+
+
+.nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
