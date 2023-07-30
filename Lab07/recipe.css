@@ -1,7 +1,12 @@
 td {
 color: pink;
-border-radius: 6px;
 }
+
+td:hover {
+      background-color: green;
+}
+
+
 .container {
       display: flex;
 }
