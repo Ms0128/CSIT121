@@ -1,13 +1,7 @@
 td {
 color: pink;
+border-radius: 6px;
 }
-
-th {
-font-family: "Times New Roman", Times, serif;
-font-size: 20px;
-font-weight: bold;
-}
-
 .container {
       display: flex;
 }
