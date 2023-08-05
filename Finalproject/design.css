@@ -55,19 +55,7 @@ h1 {
   text-align: center;
 }
 
-.image-container {
-  display: flex;
-  max-width: 800px;
-  margin: 0 auto;
-}
-.image-container img {
-  flex: 1;
-  margin-right: 10px;
-}
 
-.image-container img:last-child {
-  margin-right: 0;
-}
 
 h2 {
   color: white;
