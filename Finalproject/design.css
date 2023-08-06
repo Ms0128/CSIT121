@@ -51,6 +51,8 @@ footer {
 h1 {
   color: white;
   font-size: 46px;
+  text-shadow: 4px 4px purple;
+  text-outline: 2px solid white;
   margin-bottom: 20px;
   text-align: center;
 }
