@@ -11,6 +11,11 @@ body {
       margin-right: auto;
       list-style: disc;
 }
+
+div {
+  background-image: url(https://img.freepik.com/premium-vector/dark-purple-seamless-geometric-pattern_278395-310.jpg);
+}
+
 header {
   background-color: #333;
   color: #fff;
