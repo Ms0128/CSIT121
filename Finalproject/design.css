@@ -66,8 +66,6 @@ h1 {
 h2 {
   color: white;
   font-size: 36px;
-  text-shadow: 4px 4px purple;
-  text-outline: 2px solid white;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -75,6 +73,8 @@ h2 {
 h3 {
   color: white;
   font-size: 46px;
+  text-shadow: 4px 4px purple;
+  text-outline: 2px solid white;
   margin-bottom: 20px;
   text-align: center;
   text-decoration: underline;
