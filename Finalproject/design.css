@@ -66,6 +66,8 @@ h1 {
 h2 {
   color: white;
   font-size: 36px;
+  text-shadow: 4px 4px purple;
+  text-outline: 2px solid white;
   margin-bottom: 20px;
   text-align: center;
 }
